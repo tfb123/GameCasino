@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1579195424 source:c:\users\milan\desktop\gamecasino\main.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<dos.h>
+
+1579161796 source:c:\users\gimnazija\desktop\gamecasino\main.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<cstdlib>
+
+1579190117 source:c:\users\admin\desktop\gamecasino\main.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<dos.h>
+
